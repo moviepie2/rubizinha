@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylrsheet" href="style.css"/>
+    <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+</head>
+<body>
+    <main>
+        <div class="moviepie">
+            <div class="logo">
+                <img src="logo.png">
+            </div>
+    <p>MOVIE PIE-filmes e tortas 🥧
+Somos uma nova empresa de tortas com temáticas inspiradas em filmes!  </p>
+ <h3>  ➣Pica-Pau: Manteiga Escocesa</h3>
+ <!--imagens e links-->
+ <img src="picapau.webp" height="250px" width="350px"/>
+ <p>Nossa "torta do Pica-Pau" é uma torta com massa amanteigada,</p>
+ <p>recheio de caramelo e uma deliciosa camada de cobertura de chocolate!</p>
+ <p>
+    <a href="https://www.youtube.com/watch?v=OEoh9fy2IVM" target="_blank">Pica-Pau</a>
+ </p>
+ <h3>  ➣As Branquelas: Torta Holandesa</h3>
+<!--imagens e links-->
+<img src="branquelas.webp" height="250px"width="350px"/>
+<p>Nossa torta holandesa "As Branquelas" é uma torta de massa amanteigada</p>
+<p>com uma camada de creme branco e uma d<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>>
+<p>
+<a href="https://www.youtube.com/watch?v=gEC8h3IMgXg"target="_blank">As Branquelas</a>
+</p>
+<h3> ➣A Fuga das Galinhas: Torta de frango</h3>
+<!--imagens e links-->
+<img src="galinha.jpeg" height="250px"width="350px"/>
+<p>Nossa torta de frango "A fuga das galinhas" é uma torta composta </p>
+<p>por uma deliciosa camada de requeijao cremoso e recheio de frango desfiado</p>
+<a href="https://www.youtube.com/watch?v=MJXpcq4Ouv4" target="_blank">A Fuga das Galinhas</a>
+</p>
+<h3> ➣Pac-Man: torta de maracujá</h3>
+<!--imagens e links-->
+<img src="pac.jpeg"  height="250px"width="350px"/>
+<p>Nossa torta de maracujá "Pac-Man" é uma torta de massa amanteigada</p>
+<p>com mouse de maracujá por cima!</p>
+<a href="https://www.youtube.com/watch?v=PkEiVX8J2pI" target="_blank">Pac-Man</a>
+</body>
+</html>
