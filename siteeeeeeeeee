@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylrsheet" href="style.css"/>
+    <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+</head>
+<style>
+ body {
+    background-color: #ffb8b8
+}
+</style>
+<body>
+
+    <main>
+        <div class="moviepie">
+            <div class="logo">
+                <img src="logo.png">
+            </div>
+    <p>MOVIE PIE-filmes e tortas 🥧
+Somos uma nova empresa de tortas com temáticas inspiradas em filmes!  </p>
+
+<div class="row">
+    <div class="coluna">
+ <h3>  ➣Pica-Pau: Manteiga Escocesa</h3>
+ <!--imagens e links-->
+ <img src="picapau.webp" height="250px" width="350px"/>
+ <p>Nossa "torta do Pica-Pau" é uma torta com massa amanteigada,</p>
+ <p>recheio de caramelo e uma deliciosa camada de cobertura de chocolate!</p>
+ <p>
+    <a href="https://www.youtube.com/watch?v=OEoh9fy2IVM" target="_blank">Pica-Pau</a>
+ </p>
+</div>
+<div class="coluna">
+ <h3>  ➣As Branquelas: Torta Holandesa</h3>
+<!--imagens e links-->
+<img src="branquelas.webp" height="250px"width="350px"/>
+<p>Nossa torta holandesa "As Branquelas" é uma torta de massa amanteigada</p>
+<p>com uma camada de creme branco e uma d<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>>
+<p>
+<a href="https://www.youtube.com/watch?v=gEC8h3IMgXg"target="_blank">As Branquelas</a>
+</p>
+</div>
+<div class="coluna">
+<h3> ➣Pac-Man: torta de maracujá</h3>
+<!--imagens e links-->
+<img src="pac.jpeg"  height="250px"width="350px"/>
+<p>Nossa torta de maracujá "Pac-Man" é uma torta de massa amanteigada</p>
+<p>com mouse de maracujá por cima!</p>
+<a href="https://www.youtube.com/watch?v=PkEiVX8J2pI" target="_blank">Pac-Man</a>
+<p> 
+</div>
+<div class="coluna">
+<h3>  ➣Grinch: torta de limão</h3>
+<!--imagens e links-->
+<img src="grinch.jpeg" height="250px"width="350px"/>
+<p>Nossa torta de limão "➣Grinch" é uma torta de massa amanteigada</p>
+<p>com mouse de limão e merengue por cima!</p>
+<a href="https://www.youtube.com/watch?v=8W9X7gTV7Xo" target="_blank">O Grinch</a>
+</div>
+<div class="coluna">
+    <h3> ➣A Fuga das Galinhas: Torta de frango</h3>
+    <!--imagens e links-->
+    <img src="galinha.jpeg" height="250px"width="350px"/>
+    <p>Nossa torta de frango "A fuga das galinhas" é uma torta composta </p>
+    <p>porum delicioso recheio de frango desfiado e requeijão cremoso</p>
+    <a href="https://www.youtube.com/watch?v=MJXpcq4Ouv4" target="_blank">A Fuga das Galinhas</a>
+    </p>
+    </div>
+    <div class="coluna">
+    <h3> ➣Big Hero: Torta de palmito</h3>
+     <!--imagens e links-->
+     <img src="download.jpeg" height="250px"width="350px"/>
+    <p>Nossa torta de palmito "Big Hero" é uma torta composta por</p>
+    <p>um delicioso recheio de palmito e requeijão cremoso</p>
+<style>
+    .coluna{
+      float: left;
+      width: 33.33%;
+    .row::after {
+      content: "";
+      clear: both;
+      display: table;
+    }
+    </style>
+    
+</body>
+</html>
